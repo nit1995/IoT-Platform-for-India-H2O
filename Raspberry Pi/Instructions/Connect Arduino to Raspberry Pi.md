@@ -50,7 +50,7 @@ On your terminal, go to the file path, make thepython file executable and run th
 ```
 chmod +x filename.py
 ./filename.py 
-
+```
 
 
 <img width="655" alt="Screenshot 2021-04-29 at 3 47 46 PM" src="https://user-images.githubusercontent.com/8596851/116536241-4a821580-a902-11eb-8022-c540906d9236.png">
